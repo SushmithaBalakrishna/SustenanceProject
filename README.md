@@ -1,2 +1,2 @@
 # SustenanceProject
-Sustenance Team 
+Sustenance Team
