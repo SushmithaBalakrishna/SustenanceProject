@@ -1,0 +1,3 @@
+[submodule "DemoProject"]
+	path = DemoProject
+	url = https://github.com/SushmithaBalakrishna/DemoProject.git
